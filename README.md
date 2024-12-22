@@ -87,7 +87,7 @@ The Humidity and Temperature is printed to the serial monitor
     - the DHT11 has a +-2
     - using the average in F is the best readout compared to an analog reading most of the time
 
-Open the "data_logger.py" and play the Micro SD card into the breadboard
+Open the "data_logger.py" and place the Micro SD card into the breadboard
 
     PIN OUTS:
     VCC -> 3.3v
